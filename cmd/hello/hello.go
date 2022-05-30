@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/KasMichta/KDA/greet"
+	"KDA/pkg/greet"
 )
 
 func main() {
